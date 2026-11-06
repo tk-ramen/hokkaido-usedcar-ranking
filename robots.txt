@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tk-ramen.github.io/hokkaido-usedcar-ranking/sitemap.xml
